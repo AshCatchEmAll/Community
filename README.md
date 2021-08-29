@@ -20,9 +20,8 @@
 
 ## Display Shots
 
+<pre><div align="center"><img src ="s1.png" margin-left="10px" width="200" height="350">          <img src ="s2.png"  margin-left="10px" width="200" height="350">          <img src ="s3.png" width="200" height="350"></div></pre>
 
-<div align="center"><img src ="screenshots.png" width="400" height="600"></div><br/>
- 
 
 
 ## Running the project
