@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858359491469",
+    "project_id": "good-solution",
+    "storage_bucket": "good-solution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858359491469:android:59c78204ab60164d35abc4",
+        "android_client_info": {
+          "package_name": "com.organizingforchange.community"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858359491469-72v9ag30bn3s2ue9kgfaj2qd4gv1rs4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY9TU1T5B3-T5MS_d0GzY7gCqRPamUojY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858359491469-72v9ag30bn3s2ue9kgfaj2qd4gv1rs4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
