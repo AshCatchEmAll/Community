@@ -17,11 +17,6 @@
 - [Demo video](#demo-video)
 
 
-## Demo
-Don't wanna go through the trouble of cloning and running the project? That's fine! You can meet Chirp at the following link 
-```
-https://sunflower-xoih.web.app/#/
-```
 
 ## Display Shots
 
