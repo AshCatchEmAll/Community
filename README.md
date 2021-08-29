@@ -27,6 +27,13 @@
 ## Running the project
 - Clone the project
 - Open the project is VS code (or your favorite editor)
+- Add your ip address in stories_repo file line 8 (Flutter)
+- Create a google cloud account and enable google maps
+- Add the google maps api in android manifest
+- Make a firebase account and generate the service json file
+- Replace key in firestore/key.json file with your json file (Node.js)
+- Run npm install for node.js
+- run flutter pub get for Flutter
 - Locate the VS Code status bar (the blue bar at the bottom of the window):
 - Select a device from the Device Selector area
 - Invoke Run > Start Debugging or press f5
