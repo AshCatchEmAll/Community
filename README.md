@@ -1,3 +1,4 @@
+<div align="center"><h1>🏆✨🏆 1st place Winner for KuriusHacks 2021 🏆✨🏆</h1></div>
 <div align="center"><h1>Where am I</h1></div>
 <div align="center"><h3>An application that tells you which native land you are on and explore other native territories around the globe.</h3></div>
 <div align="center"><img src ="logo.png" width=300 height=300 style="vertical-align:middle"></div>
